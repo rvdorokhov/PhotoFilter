@@ -8,8 +8,8 @@ BATCH = 16
 EPOCHS_HEADS = 5
 EPOCHS_FT = 5
 
-TRAIN_CSV = "train_test.csv"
-VAL_CSV = "val_test.csv"
+TRAIN_CSV = "train.csv"
+VAL_CSV = "val.csv"
 
 AUTOTUNE = tf.data.AUTOTUNE
 

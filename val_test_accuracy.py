@@ -4,7 +4,7 @@ import pandas as pd
 IMG_H, IMG_W = 384, 512
 BATCH = 4
 VAL_CSV = "val.csv"                 # или "val_test.csv"
-MODEL_PATH = "iq_multihd_savedmodel.keras"
+MODEL_PATH = "iq_multihd_savedmodel_1,5.keras"
 
 AUTOTUNE = tf.data.AUTOTUNE
 

@@ -9,7 +9,7 @@ import tensorflow as tf
 # -----------------
 IMG_H, IMG_W = 384, 512
 
-MODEL_PATH = "iq_multihd_savedmodel.keras"
+MODEL_PATH = "iq_multihd_savedmodel_1,5.keras"
 TRAIN_CSV  = "train.csv"
 VAL_CSV    = "val.csv"
 
