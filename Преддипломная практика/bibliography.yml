@@ -1,0 +1,32 @@
+lib1:
+    type: Book
+    title: >-
+        Мартынюк П.А. Лекции по Искусственному Интеллекту.
+
+lib2:
+    type: Web
+    title: KADID-10k IQA Database
+    url:
+        value: https://database.mmsp-kn.de/kadid-10k-database.html
+        date: 2025-09-20
+
+lib3:
+    type: Web
+    title: Документация по MATLAB 
+    url:
+        value: https://www.mathworks.com/help/matlab/index.html
+        date: 2025-09-26
+
+lib4:
+    type: Web
+    title: Использование моделей EfficientNet для классификации изображений
+    url:
+        value: https://habr.com/ru/companies/sberbank/articles/828842/
+        date: 2025-10-14
+
+lib5:
+    type: Web
+    title: Документация по TensorFlow 
+    url:
+        value: https://www.tensorflow.org/guide?hl=ru
+        date: 2025-10-16
