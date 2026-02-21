@@ -8,25 +8,25 @@ lib2:
     title: KADID-10k IQA Database
     url:
         value: https://database.mmsp-kn.de/kadid-10k-database.html
-        date: 2025-09-20
+        date: 2026-02-12
 
 lib3:
     type: Web
     title: Документация по MATLAB 
     url:
         value: https://www.mathworks.com/help/matlab/index.html
-        date: 2025-09-26
+        date: 2026-02-15
 
 lib4:
     type: Web
     title: Использование моделей EfficientNet для классификации изображений
     url:
         value: https://habr.com/ru/companies/sberbank/articles/828842/
-        date: 2025-10-14
+        date: 2026-02-17
 
 lib5:
     type: Web
     title: Документация по TensorFlow 
     url:
         value: https://www.tensorflow.org/guide?hl=ru
-        date: 2025-10-16
+        date: 2026-02-18

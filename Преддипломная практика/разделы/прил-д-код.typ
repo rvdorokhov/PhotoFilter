@@ -9,7 +9,8 @@
   "dataset.py",
   "dataset_linux_night.py",
   "ML_first_generation.py",
-  "ML_second_generation.py"
+  "ML_second_generation.py",
+  "ML_third_generation.py"
 )
 
 #for file in files {
