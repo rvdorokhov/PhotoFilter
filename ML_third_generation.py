@@ -9,13 +9,13 @@ BATCH = 16
 EPOCHS_HEADS = 5
 EPOCHS_FT = 5
 
-TRAIN_CSV = "train_test.csv"
-VAL_CSV = "val_test.csv"
+TRAIN_CSV = "train.csv"
+VAL_CSV = "val.csv"
 
 # night-датасет (появится позже)
 EPOCHS_NIGHT = 5
-NIGHT_TRAIN_CSV = "night_train_test.csv"   # CSV: path, night (0/1)
-NIGHT_VAL_CSV   = "night_val_test.csv"
+NIGHT_TRAIN_CSV = "night_train.csv"   # CSV: path, night (0/1)
+NIGHT_VAL_CSV   = "night_val.csv"
 
 AUTOTUNE = tf.data.AUTOTUNE
 
