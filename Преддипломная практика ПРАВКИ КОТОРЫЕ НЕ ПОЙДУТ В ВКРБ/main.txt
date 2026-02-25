@@ -1,0 +1,14 @@
+#import "@local/gost732-2017:0.4.2": *
+#import "@local/bmstu:0.3.0": *
+
+#show: гост732-2017
+
+#содержание()
+
+= Как писать по ГОСТу
+
+Привет!
+
+1) Установить Tinymist Typst в VS Code
+2) https://github.com/vzalygin/bmstu-ics6/tree/master/cource-papers/trps/%D1%80%D0%BF%D0%B7
+3) typst c .\123.txt
